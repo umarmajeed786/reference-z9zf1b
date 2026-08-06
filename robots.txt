@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://umarmajeed786.github.io/reference-z9zf1b/sitemap.xml
